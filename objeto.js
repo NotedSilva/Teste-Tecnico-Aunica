@@ -25,3 +25,5 @@ var obj = {
   const stringID = separacaoID.join(',');
 
 console.log('ID: ' + stringID);
+
+// finalizado
